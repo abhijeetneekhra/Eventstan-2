@@ -1,0 +1,61 @@
+.button {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+  padding: 15px 20px;
+  position: relative;
+  width: 335px;
+}
+
+.button .create-an-account {
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.button-disabled {
+  background-color: var(--shade-03);
+}
+
+.button.button-secondary {
+  box-shadow: 0px 10px 30px #c942101a;
+}
+
+.button.button-primary {
+  background: linear-gradient(180deg, rgb(249.26, 135.89, 31.24) 0%, rgb(255, 119.34, 76.5) 100%);
+  box-shadow: 0px 10px 30px #c942101a;
+}
+
+.button.button-disabled .create-an-account {
+  color: var(--shade-02);
+  font-family: var(--button-font-family);
+  font-size: var(--button-font-size);
+  font-style: var(--button-font-style);
+  font-weight: var(--button-font-weight);
+  letter-spacing: var(--button-letter-spacing);
+  line-height: var(--button-line-height);
+}
+
+.button.button-secondary .create-an-account {
+  color: var(--primary-color);
+  font-family: var(--button-font-family);
+  font-size: var(--button-font-size);
+  font-style: var(--button-font-style);
+  font-weight: var(--button-font-weight);
+  letter-spacing: var(--button-letter-spacing);
+  line-height: var(--button-line-height);
+}
+
+.button.button-primary .create-an-account {
+  color: #ffffff;
+  font-family: var(--button-text-font-family);
+  font-size: var(--button-text-font-size);
+  font-style: var(--button-text-font-style);
+  font-weight: var(--button-text-font-weight);
+  letter-spacing: var(--button-text-letter-spacing);
+  line-height: var(--button-text-line-height);
+}
