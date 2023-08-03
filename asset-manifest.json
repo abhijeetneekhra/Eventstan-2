@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eventstan-2/static/css/main.9690fcc4.css",
-    "main.js": "/eventstan-2/static/js/main.8c82f98b.js",
+    "main.js": "/eventstan-2/static/js/main.0f500901.js",
     "static/media/frame-33575.png": "/eventstan-2/static/media/frame-33575.3ab50c10f57080b2e19f.png",
     "static/media/frame-33575-2.png": "/eventstan-2/static/media/frame-33575-2.e52a1cc54b1101b2bd22.png",
     "static/media/frame-33575-4.png": "/eventstan-2/static/media/frame-33575-4.be51f7fa678c92bee211.png",
@@ -36,10 +36,10 @@
     "static/media/material-symbols-keyboard-arrow-down-rounded.svg": "/eventstan-2/static/media/material-symbols-keyboard-arrow-down-rounded.b332b2ce4b857b52fa700eb8460f27ec.svg",
     "static/media/ic-sharp-access-time.svg": "/eventstan-2/static/media/ic-sharp-access-time.fe8ecdb67a64b90f1f3261ce1be09504.svg",
     "main.9690fcc4.css.map": "/eventstan-2/static/css/main.9690fcc4.css.map",
-    "main.8c82f98b.js.map": "/eventstan-2/static/js/main.8c82f98b.js.map"
+    "main.0f500901.js.map": "/eventstan-2/static/js/main.0f500901.js.map"
   },
   "entrypoints": [
     "static/css/main.9690fcc4.css",
-    "static/js/main.8c82f98b.js"
+    "static/js/main.0f500901.js"
   ]
 }
